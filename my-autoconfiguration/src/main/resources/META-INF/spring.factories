@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+ca.oakey.cloud.security.CustomSecurityConfiguration
